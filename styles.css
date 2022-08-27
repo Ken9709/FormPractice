@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    color: var(--txt);
+
+    /* outline: 1px solid red; */
+}
+
+
+
+.picture{
+    background-image: url(./a.avif);
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+    width: 400vw;
+}
